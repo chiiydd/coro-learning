@@ -1,0 +1,3 @@
+[submodule "tinyCoroLab"]
+	path = tinyCoroLab
+	url = git@github.com:chiiydd/tinyCoroLab.git
